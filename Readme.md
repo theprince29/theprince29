@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm PRINCE PAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![An image of @theprince29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theprince29)](https://holopin.io/@theprince29)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theprince29&label=Profile%20views&color=0e75b6&style=flat" alt="theprince29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theprince29" alt="theprince29" /></a> </p>
