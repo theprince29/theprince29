@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **react, CPP and Python**
+- 💬 Ask me about **react, CPP and Python,Nodejs, ML Algorithm**
 
 - 📫 How to reach me **princepalknp0402@gmail.com**
 
