@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRINCE PAL</h1>
 <h3 align="center">A passionate full stack developer and CSE - AI Student from India</h3>
 
-[![An image of @theprince29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theprince29)](https://holopin.io/@theprince29)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theprince29&label=Profile%20views&color=0e75b6&style=flat" alt="theprince29" /> </p>
 
