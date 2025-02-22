@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm PRINCE PAL</h1>
 <h3 align="center">A passionate full stack developer and CSE - AI Student from India</h3>
 
+[![wakatime](https://wakatime.com/badge/user/c3b0e8bb-626a-4afb-bfa8-b2cadaa45fec/project/e6eaaa95-591c-48b7-8af2-02a3d3b3b0a7.svg)](https://wakatime.com/badge/user/c3b0e8bb-626a-4afb-bfa8-b2cadaa45fec/project/e6eaaa95-591c-48b7-8af2-02a3d3b3b0a7) <img src="https://komarev.com/ghpvc/?username=theprince29&label=Profile%20views&color=0e75b6&style=flat" alt="theprince29" align="right"/>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theprince29&label=Profile%20views&color=0e75b6&style=flat" alt="theprince29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theprince29" alt="theprince29" /></a> </p>
 
