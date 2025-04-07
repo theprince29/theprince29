@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theprince29&show_icons=true&locale=en" alt="theprince29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theprince29&" alt="theprince29" /></p>
+
+[![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theprince29&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
