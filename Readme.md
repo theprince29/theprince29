@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRINCE PAL</h1>
-<h3 align="center">A passionate full stack developer and CSE - AI Student from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 [![wakatime](https://wakatime.com/badge/user/c3b0e8bb-626a-4afb-bfa8-b2cadaa45fec.svg)](https://wakatime.com/@c3b0e8bb-626a-4afb-bfa8-b2cadaa45fec) <img src="https://komarev.com/ghpvc/?username=theprince29&label=Profile%20views&color=0e75b6&style=flat" alt="theprince29" align="right"/>
 
