@@ -4,17 +4,21 @@
 
 <h1 align="center">👋 Hi, I'm Prince Pal — a Full Stack Developer</h1>
 
+<br>
+
 <p>🧱 I craft dynamic Web & Mobile Applications</p>
 <p>⚙️ Skilled in React.js, React Native, Node.js, and Python</p>
 <p>☁️ Passionate about Machine Learning & Cloud Deployment</p>
 <p>🚀 Always building, learning, and optimizing tech for real-world impact</p>
+
+<br>
 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
-
+<br>
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theprince29&theme=aura&no-frame=false&no-bg=true&margin-w=4) 
