@@ -10,6 +10,10 @@
 <p>🚀 Always building, learning, and optimizing tech for real-world impact</p>
 
 
+### Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theprince29&theme=aura&no-frame=false&no-bg=true&margin-w=4) 
