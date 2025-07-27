@@ -10,8 +10,9 @@
 <p>🚀 Always building, learning, and optimizing tech for real-world impact</p>
 
 
-### Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
 
 
