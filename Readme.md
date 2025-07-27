@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm PRINCE PAL</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+👋 Hi, I'm Prince Pal — a Full Stack Developer
+🧱 I craft dynamic Web & Mobile Applications
+⚙️ Skilled in React.js, React Native, Node.js, and Python
+☁️ Passionate about Machine Learning & Cloud Deployment
+🚀 Always building, learning, and optimizing tech for real-world impact
 
 [![wakatime](https://wakatime.com/badge/user/c3b0e8bb-626a-4afb-bfa8-b2cadaa45fec.svg)](https://wakatime.com/@c3b0e8bb-626a-4afb-bfa8-b2cadaa45fec) <img src="https://komarev.com/ghpvc/?username=theprince29&label=Profile%20views&color=0e75b6&style=flat" alt="theprince29" align="right"/>
 
@@ -8,9 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **react, CPP and Python,Nodejs, ML Algorithm**
 
-- 📫 How to reach me **princepalknp0402@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
