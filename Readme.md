@@ -96,11 +96,11 @@
 
 <h2>🔥 Stats:</h2>
 <div align="left">
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theprince29&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
+<div align="left">
+<img src="https://nirzak-streak-stats.vercel.app/?user=theprince29&theme=aura&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprince29&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="margin-left: 20px;" />
 </div>
-<img src="https://nirzak-streak-stats.vercel.app/?user=theprince29&theme=aura&hide_border=false" />
 </div>
 
 <br>
