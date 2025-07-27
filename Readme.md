@@ -37,6 +37,8 @@
 <a href="https://auth.geeksforgeeks.org/user/princepalkanpur007/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="princepalkanpur007/profile" height="30" width="40" /></a>
 </p>
 
+> Email : princepalknp0402@gmail.com
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
