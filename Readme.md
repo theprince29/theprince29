@@ -12,7 +12,7 @@
 
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theprince29&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=theprince29&theme=aura&no-frame=false&no-bg=true&margin-w=4) 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
