@@ -89,17 +89,18 @@
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
     </a>
   </p>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprince29&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="margin-left: 20px;" />
 </div>
 
 
 <br>
 
 <h2>🔥 Stats:</h2>
+<div align="left">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theprince29&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=theprince29&theme=aura&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprince29&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="margin-left: 20px;" />
+</div>
+<img src="https://nirzak-streak-stats.vercel.app/?user=theprince29&theme=aura&hide_border=false" />
 </div>
 
 <br>
